@@ -28,3 +28,5 @@ function iniit() {
 
 }
 
+init();
+
